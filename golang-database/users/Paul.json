@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 24,
+	"Contact": "123-456-789",
+	"Company": "Apple",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 440011
+	}
+}

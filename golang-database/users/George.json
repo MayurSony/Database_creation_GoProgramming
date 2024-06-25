@@ -1,0 +1,12 @@
+{
+	"Name": "George",
+	"Age": 26,
+	"Contact": "123-456-789",
+	"Company": "Amazon",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 440011
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Alexander",
+	"Age": 28,
+	"Contact": "123-456-789",
+	"Company": "Meta",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 440011
+	}
+}

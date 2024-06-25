@@ -1,0 +1,12 @@
+{
+	"Name": "William",
+	"Age": 25,
+	"Contact": "123-456-789",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 440011
+	}
+}
